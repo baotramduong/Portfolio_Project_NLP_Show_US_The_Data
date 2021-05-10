@@ -1,5 +1,4 @@
-# Discover How Data is Used for the Public Good 
-# with Natural Language Processing 
+# Discover How Data is Used for the Public Good with Natural Language Processing 
 
 ## The Deliverables
 
