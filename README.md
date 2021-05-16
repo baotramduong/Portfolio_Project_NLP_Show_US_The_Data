@@ -62,6 +62,9 @@ Original notebook on Kaggle:
 
 ## PART II: Modeling
 
+<img src = '../main/Data & Figures/bigram.png'>
+
+<img src = '../main/Data & Figures/trigram.png'>
 
 ##  Summary of Actionable Insights
 
