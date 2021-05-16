@@ -62,9 +62,15 @@ Original notebook on Kaggle:
 
 ## PART II: Modeling
 
+### Feature Engineering
+
 <img src = '../main/Data & Figures/bigram.png'>
 
 <img src = '../main/Data & Figures/trigram.png'>
+
+<img src = '../main/Data & Figures/kmeans_clustering.png'>
+
+<img src = '../main/Data & Figures/elbow_plot.png'>
 
 ##  Summary of Actionable Insights
 
