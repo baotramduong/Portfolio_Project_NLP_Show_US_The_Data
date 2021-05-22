@@ -68,10 +68,6 @@ Original notebook on Kaggle:
 
 <img src = '../main/Data & Figures/trigram.png'>
 
-<img src = '../main/Data & Figures/kmeans_clustering.png'>
-
-<img src = '../main/Data & Figures/elbow_plot.png'>
-
 ##  Summary of Actionable Insights
 
 
