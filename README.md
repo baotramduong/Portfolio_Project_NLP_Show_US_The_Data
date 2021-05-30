@@ -6,11 +6,11 @@
 
 <img src = '../main/Data & Figures/dataset_title_wordcloud.png'>
 
-<img src = '../main/Data & Figures/dataset_title_value_count.png'>
+<img src = '../main/Data & Figures/dataset_title.png'>
 
 <img src = '../main/Data & Figures/cleaned_label_wordcloud.png'>
 
-<img src = '../main/Data & Figures/cleaned_label_value_count.png'>
+<img src = '../main/Data & Figures/cleaned_label.png'>
 
 ## PART II: Modeling
 
