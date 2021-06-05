@@ -16,9 +16,11 @@
 
 ### Feature Engineering
 
-<img src = '../main/Data & Figures/bigram.png'>
+<img src = '../main/Data & Figures/dataset_title_word_count.png'>
 
-<img src = '../main/Data & Figures/trigram.png'>
+<img src = '../main/Data & Figures/dataset_title_bigram.png'>
+
+<img src = '../main/Data & Figures/dataset_title_trigram.png'>
 
 ##  Summary of Actionable Insights
 
