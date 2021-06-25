@@ -1,4 +1,4 @@
-# Kaggle kernels:
+# Kaggle Kernels:
 
 **EDA:**
 https://www.kaggle.com/baotramduong/show-us-the-data-eda
