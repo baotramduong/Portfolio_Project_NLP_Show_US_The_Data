@@ -1,4 +1,25 @@
+# Kaggle kernels:
 
+**EDA:**
+https://www.kaggle.com/baotramduong/show-us-the-data-eda
+
+**Tags:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-get-tags
+
+**N-gram Models:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-n-gram-models
+
+**GRU:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-gru
+
+**Bidirectional LSTM:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-bidirectional-lstm
+
+**sep-CNN:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-sep-cnn
+
+**spaCy NER:**
+https://www.kaggle.com/baotramduong/coleridge-initiative-spacy-ner
 
 # Notebook Table of Contents
 
