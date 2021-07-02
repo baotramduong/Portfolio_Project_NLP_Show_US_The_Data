@@ -73,15 +73,7 @@ There are 5 deliverables for this project:
 
 ## PART II: Modeling
 
-### Feature Engineering
-
-<img src = '../main/Data & Figures/dataset_title_word_count.png'>
-
-<img src = '../main/Data & Figures/dataset_title_bigram.png'>
-
-<img src = '../main/Data & Figures/dataset_title_trigram.png'>
-
-## Summary of Findings
+### Summary of Findings
 
 |#  |Model                            |Accuracy|CV  |Precision|Recall|F1  |
 |---|---------------------------------|--------|----|---------|------|----|
@@ -91,7 +83,7 @@ There are 5 deliverables for this project:
 |3  |DL GRU                           |0.83    |-   |0.29     |0.33  |0.3 |
 |4  |DL Bidirectional LSTM            |0.83    |-   |0.28     |0.31  |0.28|
 |5  |DL sep-CNN                       |0.48    |-   |0.0      |0.01  |0.01|
-|6  |spaCy NER                        |80.73   |-   |-        |-     |-   |
+|6  |spaCy NER                        |0.81    |-   |-        |-     |-   |
 
 ##  Summary of Actionable Insights
 
