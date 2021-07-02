@@ -56,7 +56,9 @@ There are 5 deliverables for this project:
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
 
 4. A Blog Post which can be found at: 
-
+  
+  **Capstone:**
+  
   **N-gram Models:**
   
   **Deep Learning Models:**
