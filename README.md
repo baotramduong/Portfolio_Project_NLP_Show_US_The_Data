@@ -57,6 +57,13 @@ There are 5 deliverables for this project:
 
 4. A Blog Post which can be found at: 
 
+  **N-gram Models:**
+  
+  **Deep Learning Models:**
+  
+  **spaCy NER:***
+  https://baotramduong.medium.com/spacys-ner-model-to-identify-scientific-datasets-a336bec6190a
+
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
 # Data Source
