@@ -50,7 +50,9 @@ There are 5 deliverables for this project:
   **spaCy NER:**
   https://www.kaggle.com/baotramduong/coleridge-initiative-spacy-ner
 
-           
+  **Capstone:**
+  https://www.kaggle.com/baotramduong/coleridge-initiative-ngram-lstm-gru-spacy
+  
 2. An organized README.md file that describes the contents of the repository.
 
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
