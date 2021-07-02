@@ -63,7 +63,7 @@ There are 5 deliverables for this project:
   
   **Deep Learning Models:**
   
-  **spaCy NER:***
+  **spaCy NER:**
   https://baotramduong.medium.com/spacys-ner-model-to-identify-scientific-datasets-a336bec6190a
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
