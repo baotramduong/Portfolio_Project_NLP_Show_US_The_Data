@@ -32,8 +32,6 @@ There are 5 deliverables for this project:
   **EDA:**
   https://www.kaggle.com/baotramduong/show-us-the-data-eda
 
-  **Tags:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-get-tags
 
   **N-gram Models:**
   https://www.kaggle.com/baotramduong/coleridge-initiative-n-gram-models
