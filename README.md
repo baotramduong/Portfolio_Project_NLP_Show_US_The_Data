@@ -68,6 +68,7 @@ There are 5 deliverables for this project:
   https://baotramduong.medium.com/natural-language-processing-nlp-with-deep-learning-models-rnn-cnn-coleridge-initiative-928f8d003b6d
   
   **spaCy NER:**
+  
   https://baotramduong.medium.com/spacys-ner-model-to-identify-scientific-datasets-a336bec6190a
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
