@@ -56,12 +56,15 @@ There are 5 deliverables for this project:
 3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
 
 4. A Blog Post which can be found at: 
+
+## Blogs:
   
   **Capstone:**
   
   **N-gram Models:**
   
   **Deep Learning Models:**
+  
   https://baotramduong.medium.com/natural-language-processing-nlp-with-deep-learning-models-rnn-cnn-coleridge-initiative-928f8d003b6d
   
   **spaCy NER:**
