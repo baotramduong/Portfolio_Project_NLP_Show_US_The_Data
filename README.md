@@ -63,6 +63,8 @@ There are 5 deliverables for this project:
   
   **N-gram Models:**
   
+  https://baotramduong.medium.com/natural-language-processing-nlp-with-n-gram-models-coleridge-initiative-f18d5714b492
+  
   **Deep Learning Models:**
   
   https://baotramduong.medium.com/natural-language-processing-nlp-with-deep-learning-models-rnn-cnn-coleridge-initiative-928f8d003b6d
