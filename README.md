@@ -87,13 +87,13 @@ There are 5 deliverables for this project:
 
 # Notebook Table of Contents
 
-## PART I: EDA
+## Part I: EDA
 
 <img src = '../main/Data & Figures/cleaned_label_wordcloud.png'>
 
 <img src = '../main/Data & Figures/cleaned_label.png'>
 
-## PART II: Modeling
+## Part II: Modeling
 
 ### Summary of Findings
 
