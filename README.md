@@ -61,6 +61,8 @@ There are 5 deliverables for this project:
   
   **Capstone:**
   
+  https://baotramduong.medium.com/discover-how-scientific-data-is-used-for-the-public-good-with-natural-language-processing-d9f8825e1dcf
+  
   **N-gram Models:**
   
   https://baotramduong.medium.com/natural-language-processing-nlp-with-n-gram-models-coleridge-initiative-f18d5714b492
