@@ -20,7 +20,22 @@ In this competition, **natural language processing (NLP)** is used to automate t
 
 If successful, data scientists will help support evidence in government data. Automated NLP approaches will enable government agencies and researchers to quickly find the information they need. The approach will be used to develop data usage scorecards to better enable agencies to show how their data are used and bring down a critical barrier to the access and use of public data.
 
-The Coleridge Initiative is a not-for-profit that has been established to use data for social good. One way in which the organization does this is by furthering science through publicly available research.
+For this project, the focus is text processing and labeling: we want to look for scientific articles in a body of text and subsequently classify them with predefined labels. This is a big challenge since sequence prediction is considered as one of the hardest problems to solve in the data science industry.
+We will discuss how to approach any NLP problem with techniques like n-gram, sequence vector, and spaCy NER. We will look at:
+
+### Steps
+1. Obtain Data
+2. Data Scrubbing & Exploration
+3. Data Annotation: Getting Train & Test Sentences
+4. Data Preprocessing
+5. Feature Extraction
+6. Part 1: Building n-gram Models
+7. Part 2: Building RNN Models: Bidirectional LSTM & GRU Model
+8. Part 3: Building CNN Model: sep-CNN Model
+9. Part 4: Building spaCy NER Model
+10. Prediction on Test Set
+11. Prepare Submission Data
+
 
 # The Deliverables
 
