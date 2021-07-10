@@ -133,7 +133,7 @@ There are 5 deliverables for this project:
 ## Reference
 Britz, D. (2016, January 10). Understanding Convolutional Neural Networks for NLP. WildML. http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/.
 
-Chollet, F. (2017). Chapter 6. Deep learning for text and sequences · Deep Learning with Python. · Deep Learning with Python. https://livebook.manning.com/book/deep-learning-with-python/chapter-6/18.
+Chollet, F. (2017). Chapter 6. Deep learning for text and sequences. Deep Learning with Python. · Deep Learning with Python. https://livebook.manning.com/book/deep-learning-with-python/chapter-6/18.
 
 Google. (n.d.). Step 4: Build, Train, and Evaluate Your Model. Google. https://developers.google.com/machine-learning/guides/text-classification/step-4.
 
