@@ -24,10 +24,9 @@ For this project, the focus is text processing and labeling: we want to look for
 
 We will discuss how to approach any NLP problem with techniques like n-gram, sequence vector, and spaCy NER. We will look at:
 
-### Steps
 1. Obtain Data
 2. Data Scrubbing & Exploration
-3. Data Annotation: Getting Train & Test Sentences
+3. Data Annotation: Getting Train Sentences & Labels
 4. Data Preprocessing
 5. Feature Extraction
 6. Part 1: Building n-gram Models
