@@ -132,8 +132,11 @@ There are 5 deliverables for this project:
 Learn techniques from winning solutions:
 
 **1st Place Winning Notebook (0.576):**
+
 https://www.kaggle.com/dathudeptrai/biomed-roberta-scibert-base
+
 https://www.kaggle.com/suicaokhoailang/submit-gpt-spacy?scriptVersionId=66488765
+
 * Context Similarity via Deep Metric Learning
 * A shared Bert model for extract Context Embedding and Sequence Tokens Embedding
 * An ArcFace Loss for training Mask/NoMask Embedding
@@ -141,7 +144,9 @@ https://www.kaggle.com/suicaokhoailang/submit-gpt-spacy?scriptVersionId=66488765
 * Text extraction model with CLM backbone and beamsearch GPT
 
 **2nd Place Winning Notebook (0.575):**
+
 https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/discussion/248296
+
 * Search for named entities using the Schwartz-Hearst algorithm
 * Filter candidates using a fine-tuned roberta-base binary classifier
 * Threshold and propagate candidates
