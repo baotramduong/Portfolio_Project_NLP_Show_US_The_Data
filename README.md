@@ -18,9 +18,10 @@ This competition will build just such an open and transparent approach. The resu
 
 In this competition, **natural language processing (NLP)** is used to automate the discovery of how scientific data are referenced in publications. Utilizing the full text of scientific publications from numerous research areas gathered from CHORUS publisher members and other sources, data scientists will identify data sets that the publications' authors used in their work.
 
-If successful, data scientists will help support evidence in government data. Automated NLP approaches will enable government agencies and researchers to quickly find the information they need. The approach will be used to develop data usage scorecards to better enable agencies to show how their data are used and bring down a critical barrier to the access and use of public data.
+The objective of the competition is to identify the mention of datasets within scientific publications. The goal in this competition is not just to match known dataset strings but to generalize to datasets that have never been seen before using NLP and statistical techniques.
 
 For this project, the focus is text processing and labeling: we want to look for scientific articles in a body of text and subsequently classify them with predefined labels. This is a big challenge since sequence prediction is considered as one of the hardest problems to solve in the data science industry.
+
 We will discuss how to approach any NLP problem with techniques like n-gram, sequence vector, and spaCy NER. We will look at:
 
 ### Steps
