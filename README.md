@@ -128,7 +128,10 @@ There are 5 deliverables for this project:
 
 
 ##  Future Works
-Learn techniques from winning solutions:
+
+* Spend more time on gathering, cleaning and visualizing data
+
+* Learn techniques from winning solutions:
 
 **1st Place Winning Notebook (0.576):**
 
