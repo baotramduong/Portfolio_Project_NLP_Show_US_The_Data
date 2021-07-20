@@ -124,13 +124,17 @@ There are 5 deliverables for this project:
 |5  |DL sep-CNN                       |0.48    |-   |0.0      |0.01  |0.01|
 |6  |spaCy NER                        |0.81    |-   |-        |-     |-   |
 
-##  Summary of Actionable Insights
+##  Recommendations
 
+1. With supervised learning algorithms, large annotated data for training is required which are expensive and often take a lot of time. Future efforts could be dedicated on providing more effective deep transfer learning models and exploring appropriate data augmentation techniques (He et al., 2020).
+2. Most neural models for sequence labeling do not scale well because when the size of data grows, the parameters of models increase exponentially, leading to the high complexity of back propagation. There exists need for developing approaches to balance model complexity and scalability (He et al., 2020).
+3. Increasing access to confidential data presumed significantly increasing privacy risks. However, the country’s laws and practices are not currently optimized to support the use of data for evidence building, nor in a manner that best protects privacy. We need to improve data security and privacy protections beyond what exists today (US CEP, 2017).
 
 ##  Future Works
 
 * Spend more time on gathering, cleaning and visualizing data
-
+* Correct highly imbalanced dataset
+* More focus on tweaking the hyper-parameters
 * Learn techniques from winning solutions:
 
 **1st Place Winning Notebook (0.576):**
@@ -154,11 +158,15 @@ https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/discussion/248296
 * Threshold and propagate candidates
 
 ## Reference
+Banerjee, I., Ling, Y., Chen, M. C., Hasan, S. A., Langlotz, C. P., Moradzadeh, N., Chapman, B., Amrhein, T., Mong, D., Rubin, D. L., Farri, O., & Lungren, M. P. (2019). Comparative effectiveness of convolutional neural network (CNN) and recurrent neural network (RNN) architectures for radiology text report classification. Artificial intelligence in medicine, 97, 79–88. https://doi.org/10.1016/j.artmed.2018.11.004
+
 Britz, D. (2016, January 10). Understanding Convolutional Neural Networks for NLP. WildML. http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/.
 
 Chollet, F. (2017). Chapter 6. Deep learning for text and sequences. Deep Learning with Python. · Deep Learning with Python. https://livebook.manning.com/book/deep-learning-with-python/chapter-6/18.
 
 Google. (n.d.). Step 4: Build, Train, and Evaluate Your Model. Google. https://developers.google.com/machine-learning/guides/text-classification/step-4.
+
+He, Z., Wang, Z., Wei, W., Feng, S., Mao, X., Jiang, S. (2020). A Survey on Recent Advances in Sequence Labeling from Deep Learning Models. arXiv:2011.06727v1 [cs.CL]. Cornell University.
 
 Meparlad. (2020, December 11). Text Classification in Natural Language Processing. Analytics Vidhya. https://www.analyticsvidhya.com/blog/2020/12/understanding-text-classification-in-nlp-with-movie-review-example-example/.
 
@@ -170,3 +178,4 @@ Phi, M. (2020, June 28). Illustrated Guide to LSTM’s and GRU’s: A step by st
 
 spaCy 101: Everything you need to know · spaCy Usage Documentation. spaCy 101: Everything you need to know. (n.d.). https://spacy.io/usage/spacy-101.
 
+United States Commission on Evidence-Based Policymaking. (2017). The Promise of Evidence-Based Policymaking: Report of the Commission on Evidence-Based Policymaking. 
