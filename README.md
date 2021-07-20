@@ -127,7 +127,9 @@ There are 5 deliverables for this project:
 ##  Recommendations
 
 1. With supervised learning algorithms, large annotated data for training is required which are expensive and often take a lot of time. Future efforts could be dedicated on providing more effective deep transfer learning models and exploring appropriate data augmentation techniques (He et al., 2020).
+
 2. Most neural models for sequence labeling do not scale well because when the size of data grows, the parameters of models increase exponentially, leading to the high complexity of back propagation. There exists need for developing approaches to balance model complexity and scalability (He et al., 2020).
+
 3. Increasing access to confidential data presumed significantly increasing privacy risks. However, the country’s laws and practices are not currently optimized to support the use of data for evidence building, nor in a manner that best protects privacy. We need to improve data security and privacy protections beyond what exists today (US CEP, 2017).
 
 ##  Future Works
