@@ -94,6 +94,8 @@ There are 5 deliverables for this project:
 
 5. A Video Walkthrough of my non-technical presentation, can be found at:
 
+https://youtu.be/Gj1ExX3tReI
+
 # Data Source
 
              - https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview
