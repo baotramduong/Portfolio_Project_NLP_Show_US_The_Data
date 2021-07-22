@@ -8,7 +8,7 @@ This competition will build just such an open and transparent approach. The resu
 
 **Disclaimer: I did not find the solution for this competition. Please check out the Leaderboard for winning notebooks. In this Capstone project, my focus is text processing and labeling: how to look for scientific articles in a body of text, process the raw text and subsequently classify them with predefined labels.**
 
-# Business Statement
+# Business Statement 
 
              - 1. Can natural language processing find the hidden-in-plain-sight data citations?
 
