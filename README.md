@@ -6,7 +6,7 @@ Now is the time for data scientists to help restore trust in data and evidence. 
 
 This competition will build just such an open and transparent approach. The results will show how public data are being used in science and help the government make wiser, more transparent public investments. It will help move researchers and governments from using ad-hoc methods to automated ways of finding out what datasets are being used to solve problems, what measures are being generated, and which researchers are the experts. Previous competitions have shown that it is possible to develop algorithms to automate the search and discovery of references to data. Now, Coleridge Initiative want the Kaggle community to develop the best approaches to identify critical datasets used in scientific publications.
 
-# Business Statement 
+# Business Statement
 
              - 1. Can natural language processing find the hidden-in-plain-sight data citations?
 
