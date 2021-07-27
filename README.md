@@ -1,4 +1,4 @@
-### This is a Kaggle competition for Coleridge Initiative  
+### This is a Kaggle competition for Coleridge Initiative
 
 This competition challenges data scientists to show how publicly funded data are used to serve science and society. Evidence through data is critical if government is to address the many threats facing society, including; pandemics, climate change, Alzheimer’s disease, child hunger, increasing food production, maintaining biodiversity, and addressing many other challenges. Yet much of the information about data necessary to inform evidence and science is locked inside publications.
 
