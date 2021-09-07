@@ -1,4 +1,17 @@
-### This is a Kaggle competition for Coleridge Initiative
+### Show Us The Data
+
+## Blogs:
+  
+  [Capstone](https://baotramduong.medium.com/discover-how-scientific-data-is-used-for-the-public-good-with-natural-language-processing-d9f8825e1dcf)
+  
+  [N-gram Models](https://baotramduong.medium.com/natural-language-processing-nlp-with-n-gram-models-coleridge-initiative-f18d5714b492)
+  
+  [Deep Learning Models](https://baotramduong.medium.com/natural-language-processing-nlp-with-deep-learning-models-rnn-cnn-coleridge-initiative-928f8d003b6d)
+  
+  [spaCy NER](https://baotramduong.medium.com/spacys-ner-model-to-identify-scientific-datasets-a336bec6190a)
+
+
+## Introduction
 
 This competition challenges data scientists to show how publicly funded data are used to serve science and society. Evidence through data is critical if government is to address the many threats facing society, including; pandemics, climate change, Alzheimer’s disease, child hunger, increasing food production, maintaining biodiversity, and addressing many other challenges. Yet much of the information about data necessary to inform evidence and science is locked inside publications.
 
@@ -6,13 +19,13 @@ Now is the time for data scientists to help restore trust in data and evidence. 
 
 This competition will build just such an open and transparent approach. The results will show how public data are being used in science and help the government make wiser, more transparent public investments. It will help move researchers and governments from using ad-hoc methods to automated ways of finding out what datasets are being used to solve problems, what measures are being generated, and which researchers are the experts. Previous competitions have shown that it is possible to develop algorithms to automate the search and discovery of references to data. Now, Coleridge Initiative want the Kaggle community to develop the best approaches to identify critical datasets used in scientific publications.
 
-# Business Statement
+## Business Statement
 
              - 1. Can natural language processing find the hidden-in-plain-sight data citations?
 
              - 2. Can machine learning find the link between the words used in research articles and the data referenced in the article?
 
-# Methodology
+## Methodology
 
 In this competition, **natural language processing (NLP)** is used to automate the discovery of how scientific data are referenced in publications. Utilizing the full text of scientific publications from numerous research areas gathered from CHORUS publisher members and other sources, data scientists will identify data sets that the publications' authors used in their work.
 
@@ -34,75 +47,29 @@ We will discuss how to approach any NLP problem with techniques like n-gram, seq
 10. Prediction on Test Set
 11. Prepare Submission Data
 
-
-# The Deliverables
-
-There are 5 deliverables for this project:
-
-1. A well documented Jupyter Notebook containing any code and comments explaining it.
-
-
 ## Kaggle Kernels:
 
-  **EDA:**
-  https://www.kaggle.com/baotramduong/show-us-the-data-eda
+  [EDA](https://www.kaggle.com/baotramduong/show-us-the-data-eda)
 
+  [N-gram Models](https://www.kaggle.com/baotramduong/coleridge-initiative-n-gram-models)
 
-  **N-gram Models:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-n-gram-models
-
-  **GRU:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-gru
-
-  **Bidirectional LSTM:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-bidirectional-lstm
-
-  **sep-CNN:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-sep-cnn
-
-  **spaCy NER:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-spacy-ner
-
-  **Capstone:**
-  https://www.kaggle.com/baotramduong/coleridge-initiative-ngram-lstm-gru-spacy
+  [GRU](https://www.kaggle.com/baotramduong/coleridge-initiative-gru)
   
-2. An organized README.md file that describes the contents of the repository.
+  [Bidirectional LSTM](https://www.kaggle.com/baotramduong/coleridge-initiative-bidirectional-lstm)
+  
+  [sep-CNN](https://www.kaggle.com/baotramduong/coleridge-initiative-sep-cnn)
 
-3. A short PowerPoint presentation (delivered as a PDF export) giving a high-level overview of the methodology used and recommendations for non-technical stakeholders. 
+  [spaCy NER](https://www.kaggle.com/baotramduong/coleridge-initiative-spacy-ner)
 
-4. A Blog Post which can be found at: 
-
-## Blogs:
-  
-  **Capstone:**
-  
-  https://baotramduong.medium.com/discover-how-scientific-data-is-used-for-the-public-good-with-natural-language-processing-d9f8825e1dcf
-  
-  **N-gram Models:**
-  
-  https://baotramduong.medium.com/natural-language-processing-nlp-with-n-gram-models-coleridge-initiative-f18d5714b492
-  
-  **Deep Learning Models:**
-  
-  https://baotramduong.medium.com/natural-language-processing-nlp-with-deep-learning-models-rnn-cnn-coleridge-initiative-928f8d003b6d
-  
-  **spaCy NER:**
-  
-  https://baotramduong.medium.com/spacys-ner-model-to-identify-scientific-datasets-a336bec6190a
-
-5. A Video Walkthrough of my non-technical presentation, can be found at:
-
-https://youtu.be/Gj1ExX3tReI
-
-# Data Source
+  [Capstone](https://www.kaggle.com/baotramduong/coleridge-initiative-ngram-lstm-gru-spacy)
+ 
+## Data Source
 
              - https://www.kaggle.com/c/coleridgeinitiative-show-us-the-data/overview
              - train.csv- CSV file contains metadata of the publications
              - train-JSON file contains publications that are referenced in train.csv
              - test-CSV file contains publications for testing purpose
              - sample_submission.csv-CSV file conatins publications IDs column and prediction columns
-
-# Notebook Table of Contents
 
 ## Part I: EDA
 
@@ -112,7 +79,7 @@ https://youtu.be/Gj1ExX3tReI
 
 ## Part II: Modeling
 
-### Summary of Findings
+## Summary of Findings
 
 |#  |Model                            |Accuracy|CV  |Precision|Recall|F1  |
 |---|---------------------------------|--------|----|---------|------|----|
@@ -124,7 +91,7 @@ https://youtu.be/Gj1ExX3tReI
 |5  |DL sep-CNN                       |0.48    |-   |0.0      |0.01  |0.01|
 |6  |spaCy NER                        |0.81    |-   |-        |-     |-   |
 
-##  Recommendations
+## Recommendations
 
 1. With supervised learning algorithms, large annotated data for training is required which are expensive and often take a lot of time. Future efforts could be dedicated on providing more effective deep transfer learning models and exploring appropriate data augmentation techniques (He et al., 2020).
 
@@ -132,7 +99,7 @@ https://youtu.be/Gj1ExX3tReI
 
 3. Increasing access to confidential data presumed significantly increasing privacy risks. However, the country’s laws and practices are not currently optimized to support the use of data for evidence building, nor in a manner that best protects privacy. We need to improve data security and privacy protections beyond what exists today (US CEP, 2017).
 
-##  Future Works
+## Future Works
 
 * Spend more time on gathering, cleaning and visualizing data
 * Correct highly imbalanced dataset
